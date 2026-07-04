@@ -1,0 +1,6 @@
+{
+  "name": "Cricket Athlete Balance Tracker",
+  "description": "An elite fitness, physical recovery, and academic balance dashboard for young student cricketers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
